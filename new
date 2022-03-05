@@ -290,6 +290,10 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvri.png" group-title=TVRI,TVRI
 https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TVRIKanal3.png" group-title=TVRI,TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
 #EXTINF:-1 tvg-id="Erz.tvrisports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvLnemv7FfstDg5iW85-BQOnyI1bbcvHvhSA&usqp=CAU" group-title=TVRI,TVRI SPORTS
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="Erz.tvriBudaya" tvg-name="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title=TVRI,TVRI Budaya
@@ -1059,13 +1063,11 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 #EXTINF: -1 tvg-name="MY - TV2" tvg-logo="https://bit.ly/3yRPsJl" group-title="Astro Malaysia", MY - RTM Okey AFF
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Luar,Rock_Extreme
-http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Luar,Rock_Enter
-http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Luar,GEM
-http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="http://ploto.hexat.com/IKIM.png" group-title="Astro Malaysia",TV IKIM My
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
+#EXTINF:-1 tvg-id="106" group-title="Astro Malaysia" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/astro-awani-live-vipotv-Malaysia.png",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Erz.Badartv" group-title=Religi tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXLdvNb7qBc6f5YiUVqfJUZZUd497u9LKlg&usqp=CAU", Badar TV
@@ -1533,6 +1535,11 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title=Luar,9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+
+#EXTINF:-1 group-title=Luar, Fail Army
+https://failarmy-linear.sinclair.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title=Luar,Expo Channel (AU)
 http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 #EXTINF:-1 group-title=Luar,Fashion TV
