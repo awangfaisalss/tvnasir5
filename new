@@ -659,8 +659,21 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/musictv.png" group-title=Music,Music Channel
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title=Music,POP MUSIK
+#https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://thumbor.prod.vid.id/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title=Music, MUSICA
 http://tvn.x10.bz/xchannel/master-26.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTTfn8YX/MOLATV.png" group-title=Music,MOLATV
+http://ventdelnord.tv:8080/mola/directe.m3u8
+
+#EXTINF:-1 tvg-id="mtvhd" group-title=Music, tvg-logo="https://i.ibb.co/sVZQNy8/MTV-VN.png", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title=Music, tvg-logo="https://warningfm.github.io/v3/img/2cS8N7R.png?v=1.0.0.1",MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
 
 #EXTINF:-1 group-title=Music, MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -866,16 +879,23 @@ http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name="MNC Sports" tvg-logo="http://dusktill.masuk.web.id/img/mncsports.png" group-title=Sport,MNC Sports
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+https://on-load.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc-sports-id.png" group-title="Sport",MNCSports
-https://liveanevia.mncnow.id:443/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-name="MNC Sports 2" tvg-logo="https://i.ibb.co/hgdWcd4/SP2.png" group-title=Sport, MNC Sports 2
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+https://on-load.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc-sports-id.png" group-title="Sport",MNCSports2
-https://liveanevia.mncnow.id:443/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-name="MNC Sports 3" group-title=Sport tvg-logo="https://i.ibb.co/GdBs735/SP3.png",MNC Sports 3
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1190,8 +1210,9 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8?ads.plex_token=4u8WsYo2xC9P
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Erz.Badartv" group-title=Religi tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWXLdvNb7qBc6f5YiUVqfJUZZUd497u9LKlg&usqp=CAU", Badar TV
-https://e1.siar.us/badartv/live/chunks.m3u8
+#EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title=Religi,Ajwa TV HD
+http://tvn.x10.bz/vidio/master-14.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tawaf.png" group-title=Religi,Tawaf TV
@@ -1199,8 +1220,11 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title=Religi,Al Quran Al Kareem 2
+#EXTINF:-1 tvg-id="QuranTV.sa" tvg-name="AlQuran Kareem" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title=Religi,Al Quran Al Kareem 1
 https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1  tvg-id="QuranTV.sa" tvg-name="AlQuran Kareem" tvg-logo="http://dusktill.masuk.web.id/img/mekkah.png" group-title=Religi,Al Quran Al Kareem 2
+http://210.210.155.35:80/session/f495c064-2ef3-11eb-901e-b82a72d63267/qwr9ew/s/s28/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1212,6 +1236,9 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvmu.png" group-title=Religi,TVMU
 https://liveanevia.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
+#EXTINF:-1 tvg-id="mtatv" tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title=Religi,MTA TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tv9.png" group-title=Religi,TV9
@@ -1219,34 +1246,74 @@ https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/rodjatv.png" group-title=Religi,RODJA TV
 http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
-#EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/ahsantv.png", AHSAN TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-#EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/surautv.png", Surau TV
-http://119.235.249.58:1935/surautv/live/playlist.m3u8
+
 #EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/alimantv.png", AL-ImanTV
 https://tv.rodja.live/aliman/HD/playlist.m3u8
+
 #EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/mgitv.png", MGI TV
 https://tv.rodja.live/tasik/mgitv/index.m3u8
+
 #EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/muadztv.png", muadzTV
-http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+https://h1.intechmedia.net/intech/ch5.m3u8
+
 #EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV
 https://streaming.sigraduta.co.id/izzahtv.m3u8
-#EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/izzahtv.png",IZZAH TV 2
-https://streaming.radiosalamjambi.com/izzahtv.m3u8
+
 #EXTINF:-1 group-title=Religi tvg-logo="http://dusktill.masuk.web.id/img/wesaltv.png", Wesaltv
 http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
-#EXTINF:-1 group-title=Religi tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsHvL8p_KMs_4rKGueL9rOCBdHWohocGhzg&usqp=CAU", muadzTV
-http://wowza60.indostreamserver.com:1935/muadztv/live/eroz_brebes.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfjf0rj_opnvpRrVU36JkRykL1j0RPayr-KQ&usqp=CAU" group-title=Religi,Iqraa TV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxj5jdlr-8wAs_qvOOpbL6EkpzNe7oYShrGw&usqp=CAU" group-title=Religi,IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/eroz_brebes.m3u8
-#EXTINF:-1 group-title=Religi,NU Channel
-https://edge.nim.mivo.tv/video/assets/oops.m3u8
-#EXTINF:-1 group-title=Religi,MGI TV
-https://tv.rodja.live/tasik/mgitv/index.m3u8
-#EXTINF:-1 group-title=Religi,MTA TV
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
 
+#EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/madinah.png" group-title=Religi,AL Sunnah Nabawi
+http://210.210.155.35:80/session/1aa0f80a-2ef4-11eb-b0a7-c81f66f89318/qwr9ew/s/s27/01.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title=Religi tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_93.png",Quran TV
+https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-100 group-title=Religi tvg-logo="https://www.rasyaad.tv/wp-content/uploads/2020/07/logo-rasyaad.png",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-100 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medstv.jpg",MEDS TV ACEH
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-100 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ufa tv.png",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-101 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/makkah.png",MAKKAH TV
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+
+#EXTINF:-102 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/medina.png",MADINAH TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+
+#EXTINF:-103 group-title=Religi tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
+http://119.235.249.58:1935/surautv/live/chunklist_w121016467.m3u8
+
+#EXTINF:-104 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ashiiltv.png",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#EXTINF:-106 group-title=Religi tvg-logo="https://live.artvisi.or.id/logo/insantv.png",INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-107 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/ahsan.png",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-108 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/367F1A03-8317-448A-B336-CB5E0B14BD78.jpeg",ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-109 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/HIJRAH TV.jpg",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-110 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/sjp tv.png",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-111 group-title=Religi tvg-logo="http://live.artvisi.or.id/logo/niagatv.png",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-115 group-title=Religi tvg-logo="https://github.com/Demila-rumah-jilbab/furqantv/raw/main/radio hidayah.png",HIDAYAH TV
+https://tv.rodja.live/hidayah/streaming/chunklist_w1269386482.m3u8
+
+#EXTINF:-116 group-title=Religi tvg-logo="https://live.artvisi.or.id/logo/binbaztv.png",BINBAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
 #EXTINF:-1,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
