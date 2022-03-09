@@ -12,13 +12,6 @@ https://liveanevia.mncnow.id:443/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title=Lokal,INDOSIAR
 https://dl.dropbox.com/s/rl9kb4pyf07ecm3/575eeb9f08dc8db.m3u8?token=bukuantv
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id", Ind1
-http://108.136.37.52/m3u8/vid_Indosiar.m3u8
-#EXTINF:-1 tvg-id="Indosiar.id", Ind2
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
-#EXTINF:-1 tvg-id="Indosiar.id", Fox Action Movies
-http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -712,9 +705,10 @@ https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title=Music,MALEO TV
 https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
 
-#EXTINF:-1   tvg-logo="" group-title=Music,Dangdut TIVI http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,tvg-logo="" group-title=Music,Dangdut TIVI 
+http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHSpDU0gbDPFV38D8XMlNUE3jOw-loekCL6Bme7ZG0Gj5KWxT&s" group-title=Music,Dijlah MUSIC
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHSpDU0gbDPFV38D8XMlNUE3jOw-loekCL6Bme7ZG0Gj5KWxT&s" group-title=Music,Dijlah MUSIC
 https://ghaasiflu.online/tarab/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=Music,METAL TV
@@ -1265,6 +1259,29 @@ http://edge.vediostream.com/abr/tvikim/playlist.m3u8?ads.plex_token=4u8WsYo2xC9P
 
 #EXTINF:-1 tvg-id="106" group-title="Malaysie" tvg-logo="https://vipotv.com/wp-content/uploads/2021/04/astro-awani-live-vipotv-Malaysia.png",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+
+#EXTINF:-1, group-title=Malaysie, ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6730
+#EXTINF:-1, group-title=Malaysie,ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6727
+#EXTINF:-1, group-title=Malaysie,ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6740
+#EXTINF:-1, group-title=Malaysie,Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/100588/100588/7267
+#EXTINF:-1, group-title=Malaysie, Astro Boo
+http://iptv.tvmalaysia.cc:80/100588/100588/8872
+#EXTINF:-1, group-title=Malaysie, ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6725
+#EXTINF:-1, group-title=Malaysie, ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6713
+#EXTINF:-1, group-title=Malaysie, ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6729
+#EXTINF:-1, group-title=Malaysie, ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6714
+#EXTINF:-1, group-title=Malaysie, ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/100588/100588/6715
+#EXTINF:-1, group-title=Malaysie, Bernama News
+http://iptv.tvmalaysia.cc:80/100588/100588/6750
 
 
 #EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title=Religi,Ajwa TV HD
