@@ -12,6 +12,10 @@ https://liveanevia.mncnow.id:443/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="http://dusktill.masuk.web.id/img/indosiar.png" group-title=Lokal,INDOSIAR
 https://dl.dropbox.com/s/rl9kb4pyf07ecm3/575eeb9f08dc8db.m3u8?token=bukuantv
 http://group2-swiftservesd-1.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id", Ind1
+http://108.136.37.52/m3u8/vid_Indosiar.m3u8
+#EXTINF:-1 tvg-id="Indosiar.id", Ind2
+https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
