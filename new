@@ -197,6 +197,12 @@ https://liveanevia.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 tvg-id="Erz.Jogjatv" tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title=Lokal,Jogja TV
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title=Lokal,DM TV Malang
+http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/chunklist_w656174325.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=Lokal,JANGKAR TV
+http://bravo.kugo.id:1935/jangkartv/rtmp.stream_360p/chunklist_w2043614469.m3u8
+
 #EXTINF:-1 group-title=Lokal ,JITV
 http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
 #EXTINF:-1 tvg-id="Erz.Jambitv" group-title=Lokal tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrb7-nhn7-gtKNiK6nzjfhJO5FZb6z1kSURg&usqp=CAU",Jambi Tv
@@ -271,12 +277,25 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 http://rr2.dens.tv/s/s10/index.m3u8
 
 
-#EXTINF:-1 group-title=Lokal,jowo
+#EXTINF:-1 group-title=Lokal,Jowo
 https://h1.intechmedia.net/intech/ch101.m3u8
 
+#EXTINF:-1 group-title=Lokal,SMTV Sumedang
+https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmGEM12.png" group-title=Lokal,Sampit TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title=Lokal,TV Edukasi
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d23268ef7e5a44f541a7cbde7626ef57566
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cCdnh583/UGTV.png" group-title=Lokal,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=Lokal,KUGO 1
+http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+
+
 
 
 
