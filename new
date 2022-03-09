@@ -447,9 +447,6 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Film,CinemaEuropa
-http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Film,CINEMA_WORLD
 http://group2-swiftservehd-1.dens.tv/h/h04/01.m3u8
 
@@ -468,6 +465,9 @@ http://shareext@urtv.cc:80/live/297340/297340/8839.ts?Shareext.ts
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/IMC-TV.png" group-title=Film,IMC CHANNEL
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/T1ohTKCx88OYVGI-Ri92MF_hdJw=/172x96/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/ 6684/citra-bioskop-2be866.jpg"group-title=Film,CitraBioskop
+http://tvn.x10.bz/xchannel/master-1.m3u8
+
 #EXTINF:-1 tvg-id="CitraDrama.id" group-title=Film tvg-logo="https://www.useetv.com/pimages/logo_citradrama_small.png?v=2.0.0.15",Citra Drama
 http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=cdrama&bandwidth=default&sync=0
 
@@ -476,6 +476,9 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Film,K_PLUS
 http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title=Film,CinemaEuropa
+http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 
 #EXTINF:-1 tvg-id="foxcrime.id" tvg-name="Fox Crime" tvg-logo="http://tvmalaysia.cc:80/images/b735a95be9e3259a1af53ebae3a3b7a9.png" group-title=Film,FoxCrime
 http://shareext@urtv.cc:80/live/297340/297340/7225.ts?Shareext.ts
