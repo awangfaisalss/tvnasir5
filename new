@@ -200,8 +200,8 @@ https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=Lokal,DM TV Malang
 http://bravo.kugo.id:1935/dmtvmalang/rtmp.stream_360p/chunklist_w656174325.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title=Lokal,JANGKAR TV
-http://bravo.kugo.id:1935/jangkartv/rtmp.stream_360p/chunklist_w2043614469.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title=Lokal,PUJA TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
 
 #EXTINF:-1 group-title=Lokal ,JITV
 http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
@@ -276,9 +276,21 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
 #EXTINF:-1 group-title=Lokal,ElShinta TV
 http://rr2.dens.tv/s/s10/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title=Lokal,GPR TV
+http://bravo.kugo.id:1935/gprtv/rtmp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=Lokal,TEGAR TV
+http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1596598636.m3u8
+
 
 #EXTINF:-1 group-title=Lokal,Jowo
 https://h1.intechmedia.net/intech/ch101.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J4Mc1QpY/mgstv.png" group-title=Lokal,MEGASWARA TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=Lokal,Banjar TV
+https://v2.siar.us/banjartv/livestream/chunks.m3u8
 
 #EXTINF:-1 group-title=Lokal,SMTV Sumedang
 https://livestreaming-swiftserve-etslive.vidio.com/hls-p/ingest_6587_720p/index.m3u8
@@ -682,6 +694,17 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title=Music,POP MUSIK
 #https://5d63d49f772ce.streamlock.net//popmusik/udp.stream_360p/chunklist_w176140401.m3u8
 https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8chkS4Rq/MALEO.png" group-title=Music,MALEO TV
+https://bravo.kugo.id/maleo/udp.stream_360p/chunklist_w1298515576.m3u8
+
+#EXTINF:-1   tvg-logo="" group-title=Music,Dangdut TIVI http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQHSpDU0gbDPFV38D8XMlNUE3jOw-loekCL6Bme7ZG0Gj5KWxT&s" group-title=Music,Dijlah MUSIC
+https://ghaasiflu.online/tarab/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=Music,METAL TV
+https://v2.catcast.tv/content/33816/index.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://thumbor.prod.vid.id/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title=Music, MUSICA
 http://tvn.x10.bz/xchannel/master-26.m3u8
