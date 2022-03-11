@@ -1300,6 +1300,8 @@ http://iptv.tvmalaysia.cc:80/100588/100588/6714
 http://iptv.tvmalaysia.cc:80/100588/100588/6715
 #EXTINF:-1, group-title=Malaysie, Bernama News
 http://iptv.tvmalaysia.cc:80/100588/100588/6750
+#EXTINF:-1 tvg-id="NTV7.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title=Didik TV,NTV 7 
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
 
 #EXTINF:0 tvg-id="ajwa.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png" group-title=Religi,Ajwa TV HD
