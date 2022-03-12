@@ -325,6 +325,15 @@ http://122.248.43.138:1935/ch27/myStream/live.m3u8
 #EXTINF:-1 tvg-logo="" group-title=Lokal,KUGO 1
 http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 
+#EXTINF:-1 group-title=Lokal,Citra TV
+http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrfc1rG/18-Batu-TV.jpg" group-title=Lokal,BATU TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+
+
+
 
 
 
