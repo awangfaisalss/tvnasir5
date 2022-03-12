@@ -331,7 +331,11 @@ http://122.248.43.138:1935/ch28/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/cJrfc1rG/18-Batu-TV.jpg" group-title=Lokal,BATU TV
 http://117.103.69.219:8080/live/streaming/index.m3u8
 
+#EXTINF:-1 group-title=Lokal,Batam TV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title=Lokal,Dayak TV
+http://122.248.43.138:1935/ch26/myStream/playlist.m3u8
 
 
 
@@ -573,8 +577,8 @@ http://rr.dens.tv/h/h90/index.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 #EXTINF:-1 group-title=Film,&Pictures HD
 https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title=Film,Star Movies HD 4K
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=Film, STAR MOVIE 
+https://raw.githubusercontent.com/ridho123/iptv/main/StarMovie.m3u8
 #EXTINF:-1 group-title=Film,Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 group-title=Film,Cinehouse (STIRR) (720p)
